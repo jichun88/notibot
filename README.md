@@ -1,6 +1,7 @@
 # notibot
 
-##platform with maprequest API, twilio API, node js(Socketio/ExecPhp/scheduleJob), php, javascript
+###platform with maprequest API, twilio API
+###node js(Socketio/ExecPhp/scheduleJob), php, javascript
 
 ###Inspiration
 when you are going to be late a meet up, what do u do when u driving? I may call or write down text , driving car. it happens dangerous.
